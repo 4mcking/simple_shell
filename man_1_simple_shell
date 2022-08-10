@@ -1,0 +1,47 @@
+simple_shell
+
+.TH man 2 "August 10, 2022" "0.0" "simple_shell man page"
+
+
+.SH NAME
+
+
+.B simple_shell
+
+
+reads and interprets commands given by a user from stdin
+
+
+.SH SYNOPSIS
+
+
+simple_shell
+
+
+.SH DESCRIPTION
+
+
+simple_shell will interpret commands from stdin and execute them
+
+
+.SH OPTIONS
+
+
+.B simple_shell
+
+Accept user input and perform certain commands
+
+
+.SH SEE ALSO
+
+
+.SH BUGS
+
+
+Too many at the moment.
+
+
+.SH AUTHOR
+
+
+Kingson Emma-Ochu and David Musembi, software engineers from ALX School.
