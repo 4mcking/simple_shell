@@ -324,10 +324,10 @@ $
 
 - GitHub: [@4mcking](https://github.com/4mcking)
 - Twitter: [@4mcking](https://twitter.com/4mcking)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/kingsonemmaochu)
+- LinkedIn: [kingsonemmaochu](https://linkedin.com/in/kingsonemmaochu)
 
 👤 **David Musembi**
 
 - GitHub: [@davidmusembi](https://github.com/davidmusembi)
-- LinkedIn: [LinkedIn](linkedin.com/in/davidmusembi)
+- LinkedIn: [davidmusembi](linkedin.com/in/davidmusembi)
 - Twitter: [@davidmusembi](https://twitter.com/davidmusembi)
