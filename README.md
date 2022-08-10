@@ -323,7 +323,7 @@ $
 👤 **Kingson Emma-Ochu**
 
 - GitHub: [@4mcking](https://github.com/4mcking)
-- Twitter: [@e4mcking](https://twitter.com/4mcking)
+- Twitter: [@4mcking](https://twitter.com/4mcking)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/kingsonemmaochu)
 
 👤 **David Musembi**
